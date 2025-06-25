@@ -2,5 +2,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f3f3f3;
+    background-color: hsl(0, 0%, 95%);
+}
+.content {
+    width: 1000px;
+    max-width: 1000px;
+    padding: 20px;
+    background-color: hsl(0, 0%, 97%);
+    border-radius: 20px;
 }
